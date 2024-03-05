@@ -23,7 +23,7 @@ WebDriverWait(driver, 5)\
 WebDriverWait(driver, 5)\
     .until(EC.element_to_be_clickable((By.XPATH,
                                       '/html/body/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td/table/tbody/tr/td/div/div[1]/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/input')))\
-    .send_keys('Vega5399')
+    .send_keys('**********')
 
 
 WebDriverWait(driver, 5)\
